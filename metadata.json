@@ -1,0 +1,6 @@
+{
+  "name": "Lilies of the Field - Memorial Keepsakes",
+  "description": "Premium memorial programs, prayer cards, photo keepsakes and tribute pieces in Brooklyn, NY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
